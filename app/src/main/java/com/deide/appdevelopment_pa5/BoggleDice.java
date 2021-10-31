@@ -1,7 +1,5 @@
 /**
  * This program plays a single player version of the game Boggle
- * CPSC 312-01. Fall 2021
- * Programming Assignment 5
  * No sources to cite
  *
  * @ConnorDeide
